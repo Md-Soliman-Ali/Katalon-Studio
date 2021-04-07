@@ -11,3 +11,5 @@
 1. It would help if you were a developer mood. (Example: Press MIUI Version rapidly)
 2. Go to the Developer Options. Enable USB Debugging, USB Debugging (Security Settings), Install via USB.
 3. Connect your phone via USB to your device.
+
+* You can also use Vysor to share your Android phone screen with your devices & 3uTools for IOS devices.
